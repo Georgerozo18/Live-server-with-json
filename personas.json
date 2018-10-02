@@ -1,0 +1,21 @@
+{
+  "personas" :
+   [
+    {
+      "nombre":"leonardo",
+      "nickname":"Geo"
+    },
+    {
+      "nombre":"leo",
+      "nickname":"Ground"
+    },
+    {
+      "nombre":"helena",
+      "nickname":"peteraki"
+    },
+    {
+      "nombre":"helena",
+      "nickname":"peteraki"
+    }
+  ]
+}
